@@ -1,6 +1,6 @@
 # arede
 
-arede designs, builds, and operates software systems and digital infrastructure for organizations.
+Arede designs, builds, and operates software systems and digital infrastructure for organizations.
 
 Our work combines software engineering, automation, systems integration, infrastructure, and operational tooling to simplify processes and connect systems that need to work together.
 
