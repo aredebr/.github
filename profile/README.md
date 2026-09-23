@@ -12,9 +12,6 @@ Software for organizing organizational operations, information, workflows, and s
 **arede.dev**  
 A governed software engineering environment for building, delivering, operating, and evolving systems.
 
-**arede-core**  
-Reusable technical components and shared foundations used across the Arede ecosystem.
-
 Based in Belém, Brazil.
 
 [arede.dev.br](https://arede.dev.br)
