@@ -12,6 +12,9 @@ Software for organizing organizational operations, information, workflows, and s
 **arede.dev**  
 A governed software engineering environment for building, delivering, operating, and evolving systems.
 
+**Arede Grotesk**  
+The typeface of the Arede brand. Free and open source under the SIL Open Font License. [Download](https://github.com/aredebr/arede-grotesk)
+
 Based in Belém, Brazil.
 
 [arede.dev.br](https://arede.dev.br)
