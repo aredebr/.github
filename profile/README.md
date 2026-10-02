@@ -17,4 +17,4 @@ The typeface of the Arede brand. Free and open source under the SIL Open Font Li
 
 Based in Belém, Brazil.
 
-[arede.dev.br](https://arede.dev.br)
+[arede.dev](https://arede.dev)
